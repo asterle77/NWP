@@ -1,0 +1,3 @@
+User: OpasniUser Pass:1111 admin
+User: joso99 Pass:2222 editor
+User: kresman Pass:3333 user
